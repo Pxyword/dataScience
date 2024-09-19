@@ -37,3 +37,13 @@ b.	Using mathematical functions on console
 >sum
 [1] -400
 
+# This function get the current working directory information
+getwd() 
+
+[1] "C:/Users/Administrator/Documents"
+# Save the 'a' variable contents into a.csv file in the current directory 
+>write.csv(a,'a.csv')
+
+# Save the 'a' variable contents into a.csv file in the specified directory 
+>write.csv(a,'C:\\Users\\Administrator\\Documents')
+
