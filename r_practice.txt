@@ -1,0 +1,8 @@
+# I am working on R language 
+
+R Language has tool + GUI 
+RStudio is a GUI
+
+> 1+2 
+> 2/3
+> 4*5 
