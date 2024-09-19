@@ -6,3 +6,34 @@ RStudio is a GUI
 > 1+2 
 > 2/3
 > 4*5 
+a.	Using without R objects on console
+> 2587+2149
+Output:- [1] 4736
+
+> 287954-135479
+Output:- [1] 152475
+
+> 257*52 [1] 13364
+
+> 257/21
+Output:- [1] 12.2381
+
+Using with R objects on console:
+>A=1000
+>B=2000
+>c=A+B
+>c Output:- [1] 3000
+
+b.	Using mathematical functions on console
+>a=100
+>class(a)
+[1] "numeric"
+>b=500
+>c=a-b
+>class(b)
+[1] "numeric"
+>sum<a-b
+[1] FALSE
+>sum
+[1] -400
+
